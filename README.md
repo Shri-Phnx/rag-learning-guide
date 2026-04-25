@@ -36,16 +36,6 @@ npm run dev
 
 Open http://localhost:5173/rag-learning-guide/
 
-## Enable GitHub Pages (one-time setup)
-
-1. Go to **Settings → Pages** in this repo
-2. Set **Source** to `GitHub Actions`
-3. Push to `main` — the workflow auto-deploys
-
-Live URL will be: `https://shri-phnx.github.io/rag-learning-guide/`
-
----
-
 ## The Augmented Prompt Formula
 
 ```
